@@ -3,6 +3,7 @@
 
 NB: Solution built on Spring Boot initializr from `https://code.visualstudio.com/docs/java/java-webapp`
 
+All the code is in `complete/src/main/java/com.{...}.HelloController.java`
 
 === What You Need
 
@@ -18,4 +19,9 @@ Steps:
 
 - install the Microsoft Extension Pack for Java
 - Hit `F5` to run
+- Go to `http://localhost:8080/search`
+
+
+
+
 
