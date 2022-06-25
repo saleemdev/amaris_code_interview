@@ -2,6 +2,8 @@
 
 
 NB: Solution built on Spring Boot initializr from `https://code.visualstudio.com/docs/java/java-webapp`
+
+
 === What You Need
 
 Java 1.8
@@ -15,5 +17,5 @@ Steps:
 - Download Apache Maven version 3 or greater:
 
 - install the Microsoft Extension Pack for Java
-- Hit `F5`
+- Hit `F5` to run
 
