@@ -2,4 +2,16 @@
 
 === What You Need
 
-:java_version: 1.8
+Java 1.8
+Postgres 9.6+
+
+Steps:
+
+- Clone the repository
+- Run the database BACKUP file(sql) under gs-spring-boot `cd gs-spring-boot`
+- CD to the complete folder `cd complete`
+- Download Apache Maven version 3 or greater:
+
+- install the Microsoft Extension Pack for Java
+- Hit `F5`
+
