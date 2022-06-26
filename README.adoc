@@ -8,6 +8,7 @@ All the code is in `complete/src/main/java/com.{...}.HelloController.java`
 === What You Need
 
 Java 1.8
+
 Postgres 9.6+
 
 Steps:
